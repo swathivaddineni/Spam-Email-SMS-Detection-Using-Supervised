@@ -1,4 +1,4 @@
-# spam Email/sms Detection using Supervised Learning
+📩 Spam Email/sms Detection using Supervised Learning
 
 ## Project Overview
 
