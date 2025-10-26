@@ -29,15 +29,20 @@ The dataset used is the SMS/Email Spam Collection dataset. It contains labeled e
 
 You can view below images that directly come from the notebook:
 
-![Performance Metrics](images/performance_metrics.png)  <!-- Use the image you uploaded -->
+### performance Matrix
+
+![Confusion Matrix](<img width="957" height="660" alt="Screenshot 2025-10-26 140449" src="https://github.com/user-attachments/assets/f65c3fb4-595e-4303-bef5-e39b3003e412" />
+)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](<img width="788" height="630" alt="Screenshot 2025-10-26 134702" src="https://github.com/user-attachments/assets/57ecf42b-7485-44b2-97c2-37b0a5b3d44a" />
+)
 
 ### Accuracy Chart
 
-![Accuracy Chart](images/accuracy_chart.png)
+![Accuracy Chart](<img width="614" height="301" alt="Screenshot 2025-10-26 151238" src="https://github.com/user-attachments/assets/38fd69c0-b6c2-4f21-8ee7-50537291825c" />
+)
 
 ## Sample Predictions
 
