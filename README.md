@@ -14,7 +14,7 @@ This project focuses on detecting spam emails using supervised machine learning 
 - Matplotlib
 - Seaborn
 
-## Dataset
+## Dataset.
 
 The dataset used is the SMS/Email Spam Collection dataset. It contains labeled examples of messages categorized as spam or ham.
 
